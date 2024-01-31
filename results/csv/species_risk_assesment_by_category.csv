@@ -1,0 +1,15 @@
+category,risk_assesment,risk_assesment_count
+Amphibian,At risk,7
+Amphibian,Secure,73
+Bird,At risk,76
+Bird,Secure,442
+Fish,At risk,11
+Fish,Secure,116
+Mammal,At risk,37
+Mammal,Secure,176
+Nonvascular Plant,At risk,5
+Nonvascular Plant,Secure,328
+Reptile,At risk,5
+Reptile,Secure,74
+Vascular Plant,At risk,46
+Vascular Plant,Secure,4424

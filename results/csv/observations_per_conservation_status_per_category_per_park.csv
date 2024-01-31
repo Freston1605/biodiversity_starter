@@ -1,0 +1,101 @@
+park_name,category,conservation_status,observations_sum
+Bryce National Park,Amphibian,Endangered,31
+Bryce National Park,Amphibian,Least Concern,7044
+Bryce National Park,Amphibian,Species of Concern,387
+Bryce National Park,Amphibian,Threatened,80
+Bryce National Park,Bird,Endangered,98
+Bryce National Park,Bird,In Recovery,258
+Bryce National Park,Bird,Least Concern,50982
+Bryce National Park,Bird,Species of Concern,7252
+Bryce National Park,Fish,Endangered,70
+Bryce National Park,Fish,Least Concern,12092
+Bryce National Park,Fish,Species of Concern,339
+Bryce National Park,Fish,Threatened,322
+Bryce National Park,Mammal,Endangered,395
+Bryce National Park,Mammal,In Recovery,130
+Bryce National Park,Mammal,Least Concern,24129
+Bryce National Park,Mammal,Species of Concern,4086
+Bryce National Park,Mammal,Threatened,90
+Bryce National Park,Nonvascular Plant,Least Concern,32506
+Bryce National Park,Nonvascular Plant,Species of Concern,486
+Bryce National Park,Reptile,Least Concern,7754
+Bryce National Park,Reptile,Species of Concern,387
+Bryce National Park,Vascular Plant,Endangered,25
+Bryce National Park,Vascular Plant,Least Concern,480175
+Bryce National Park,Vascular Plant,Species of Concern,4074
+Bryce National Park,Vascular Plant,Threatened,99
+Great Smoky Mountains National Park,Amphibian,Endangered,11
+Great Smoky Mountains National Park,Amphibian,Least Concern,5543
+Great Smoky Mountains National Park,Amphibian,Species of Concern,249
+Great Smoky Mountains National Park,Amphibian,Threatened,73
+Great Smoky Mountains National Park,Bird,Endangered,61
+Great Smoky Mountains National Park,Bird,In Recovery,189
+Great Smoky Mountains National Park,Bird,Least Concern,37572
+Great Smoky Mountains National Park,Bird,Species of Concern,5047
+Great Smoky Mountains National Park,Fish,Endangered,77
+Great Smoky Mountains National Park,Fish,Least Concern,8935
+Great Smoky Mountains National Park,Fish,Species of Concern,268
+Great Smoky Mountains National Park,Fish,Threatened,202
+Great Smoky Mountains National Park,Mammal,Endangered,217
+Great Smoky Mountains National Park,Mammal,In Recovery,59
+Great Smoky Mountains National Park,Mammal,Least Concern,18105
+Great Smoky Mountains National Park,Mammal,Species of Concern,2591
+Great Smoky Mountains National Park,Mammal,Threatened,84
+Great Smoky Mountains National Park,Nonvascular Plant,Least Concern,24484
+Great Smoky Mountains National Park,Nonvascular Plant,Species of Concern,373
+Great Smoky Mountains National Park,Reptile,Least Concern,5476
+Great Smoky Mountains National Park,Reptile,Species of Concern,365
+Great Smoky Mountains National Park,Vascular Plant,Endangered,27
+Great Smoky Mountains National Park,Vascular Plant,Least Concern,361932
+Great Smoky Mountains National Park,Vascular Plant,Species of Concern,2842
+Great Smoky Mountains National Park,Vascular Plant,Threatened,81
+Yellowstone National Park,Amphibian,Endangered,60
+Yellowstone National Park,Amphibian,Least Concern,18770
+Yellowstone National Park,Amphibian,Species of Concern,852
+Yellowstone National Park,Amphibian,Threatened,255
+Yellowstone National Park,Bird,Endangered,243
+Yellowstone National Park,Bird,In Recovery,559
+Yellowstone National Park,Bird,Least Concern,125774
+Yellowstone National Park,Bird,Species of Concern,17724
+Yellowstone National Park,Fish,Endangered,202
+Yellowstone National Park,Fish,Least Concern,29584
+Yellowstone National Park,Fish,Species of Concern,955
+Yellowstone National Park,Fish,Threatened,718
+Yellowstone National Park,Mammal,Endangered,990
+Yellowstone National Park,Mammal,In Recovery,330
+Yellowstone National Park,Mammal,Least Concern,59671
+Yellowstone National Park,Mammal,Species of Concern,9452
+Yellowstone National Park,Mammal,Threatened,258
+Yellowstone National Park,Nonvascular Plant,Least Concern,81852
+Yellowstone National Park,Nonvascular Plant,Species of Concern,1169
+Yellowstone National Park,Reptile,Least Concern,18961
+Yellowstone National Park,Reptile,Species of Concern,1100
+Yellowstone National Park,Vascular Plant,Endangered,63
+Yellowstone National Park,Vascular Plant,Least Concern,1208446
+Yellowstone National Park,Vascular Plant,Species of Concern,9425
+Yellowstone National Park,Vascular Plant,Threatened,228
+Yosemite National Park,Amphibian,Endangered,42
+Yosemite National Park,Amphibian,Least Concern,10959
+Yosemite National Park,Amphibian,Species of Concern,556
+Yosemite National Park,Amphibian,Threatened,156
+Yosemite National Park,Bird,Endangered,172
+Yosemite National Park,Bird,In Recovery,386
+Yosemite National Park,Bird,Least Concern,75319
+Yosemite National Park,Bird,Species of Concern,10735
+Yosemite National Park,Fish,Endangered,106
+Yosemite National Park,Fish,Least Concern,18081
+Yosemite National Park,Fish,Species of Concern,547
+Yosemite National Park,Fish,Threatened,403
+Yosemite National Park,Mammal,Endangered,576
+Yosemite National Park,Mammal,In Recovery,196
+Yosemite National Park,Mammal,Least Concern,36069
+Yosemite National Park,Mammal,Species of Concern,5546
+Yosemite National Park,Mammal,Threatened,146
+Yosemite National Park,Nonvascular Plant,Least Concern,49106
+Yosemite National Park,Nonvascular Plant,Species of Concern,677
+Yosemite National Park,Reptile,Least Concern,11095
+Yosemite National Park,Reptile,Species of Concern,684
+Yosemite National Park,Vascular Plant,Endangered,47
+Yosemite National Park,Vascular Plant,Least Concern,721910
+Yosemite National Park,Vascular Plant,Species of Concern,5794
+Yosemite National Park,Vascular Plant,Threatened,144

@@ -1,0 +1,26 @@
+category,conservation_status,conservation_status_count
+Amphibian,Endangered,1
+Amphibian,Least Concern,73
+Amphibian,Species of Concern,4
+Amphibian,Threatened,2
+Bird,Endangered,4
+Bird,In Recovery,3
+Bird,Least Concern,442
+Bird,Species of Concern,72
+Fish,Endangered,3
+Fish,Least Concern,116
+Fish,Species of Concern,4
+Fish,Threatened,4
+Mammal,Endangered,7
+Mammal,In Recovery,1
+Mammal,Least Concern,176
+Mammal,Species of Concern,28
+Mammal,Threatened,2
+Nonvascular Plant,Least Concern,328
+Nonvascular Plant,Species of Concern,5
+Reptile,Least Concern,74
+Reptile,Species of Concern,5
+Vascular Plant,Endangered,1
+Vascular Plant,Least Concern,4424
+Vascular Plant,Species of Concern,43
+Vascular Plant,Threatened,2
